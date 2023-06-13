@@ -7,10 +7,10 @@ The project is a scalable messaging application backend that consists of an HTTP
 Data is stored in a Redis database.
 
 ## Links
-[TikTok Tech Immersion 2023](https://bytedance.sg.feishu.cn/docx/CEusdOSGHody93xCekHlbBOvgGR)
-[Project Description](https://bytedance.sg.feishu.cn/docx/P9kQdDkh5oqG37xVm5slN1Mrgle)
-[Code Template Repository](https://github.com/TikTokTechImmersion/assignment_demo_2023)
-[Project Walkthrough](https://o386706e92.larksuite.com/docx/QE9qdhCmsoiieAx6gWEuRxvWsRc) by [weixingp](https://www.linkedin.com/in/weixingp/)
+- [TikTok Tech Immersion 2023](https://bytedance.sg.feishu.cn/docx/CEusdOSGHody93xCekHlbBOvgGR)
+- [Project Description](https://bytedance.sg.feishu.cn/docx/P9kQdDkh5oqG37xVm5slN1Mrgle)
+- [Code Template Repository](https://github.com/TikTokTechImmersion/assignment_demo_2023)
+- [Project Walkthrough](https://o386706e92.larksuite.com/docx/QE9qdhCmsoiieAx6gWEuRxvWsRc) by [weixingp](https://www.linkedin.com/in/weixingp/)
 
 ## Directories
 
