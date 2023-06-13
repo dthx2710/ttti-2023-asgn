@@ -1,0 +1,26 @@
+version: '3.9'
+services:
+  rpc-server:
+    build: rpc-server
+    ports:
+      - "8888:8888"
+    environment:
+      - SERVICE_NAME=rpc-server
+      - SERVICE_TAGS=rpc
+    depends_on:
+      - redis
+  http-server:
+    build: http-server
+    ports:
+      - "8080:8080"
+    environment:
+      - SERVICE_NAME=http-server
+      - SERVICE_TAGS=http
+    depends_on:
+      - rpc-server
+  redis:
+    image: 'bitnami/redis:latest'
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    ports:
+      - "6379:6379"
