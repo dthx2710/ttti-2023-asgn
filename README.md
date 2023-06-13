@@ -1,4 +1,4 @@
-# TTTI-2023 Assignment
+# Tiktok Tech Immersion 2023 Backend Server Assignment
 
 This repository contains the source code for the Tiktok Tech Immersion Backend Server Assignment project.
 
